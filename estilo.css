@@ -135,3 +135,89 @@ h1{
 seccionab{
     display: block;
 }
+
+.recucontra {
+    width: 800px;
+    height: 420px;
+    left: 10%;
+    right: 10%;
+    position:absolute;
+    align-self: center;
+    background-image: url(../imagenes/imagen/fondo2.jpg);
+    color: #fff;
+    box-sizing: border-box;
+    padding: 30px 30px;
+    border-radius:20px;
+
+}
+
+.olvcont {
+    color: #fff;
+}
+
+.recucontra {
+    width: 800px;
+    height: 420px;
+    left: 10%;
+    right: 10%;
+    position:absolute;
+    align-self: center;
+    background-image: url(../imagenes/imagen/fondo2.jpg);
+    color: #fff;
+    box-sizing: border-box;
+    padding: 30px 30px;
+    border-radius:20px;
+
+}
+
+msg-error {
+    color: #c65848;
+  }
+  .g-recaptcha.error {
+    border: solid 2px #c64848;
+    padding: .2em;
+    width: 19em;
+    margin: .2em;
+  }
+
+  @media (max-width: 767px) {
+#navegador li {
+    visibility: hidden;}
+}
+
+  @media screen and (min-width:
+  768px) {
+
+  #navegador ul{
+    list-style-type: none;
+    text-align: left;
+    background-color: rgba(4, 5, 49, 0.4);
+    padding: 20px 45px;
+    margin-top: 0;
+ }
+ #navegador li{
+    display: inline;
+    text-align: center;
+    margin: 0 2px 0 0;
+   }
+
+   #navegador li a {
+    padding: 15px 30px;
+    color: #fff;
+    background-color: rgba(255, 255, 255, 0.2);
+    text-decoration: none;
+    border-radius: 10px;
+ }
+    #navegador li a:hover{
+    background-color: #333333;
+    color: #ffffff;
+ }
+
+ .recucontra {
+    width: 500px;
+    height: 420px;
+    right: 30%;
+    
+ }
+
+}
